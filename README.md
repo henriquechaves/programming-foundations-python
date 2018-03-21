@@ -1,3 +1,5 @@
 # programming-foundations-python
 
-Study 1 - Functions
+Study 1 - functions
+Study 2 - Rename files in path
+
